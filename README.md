@@ -1,2 +1,2 @@
-# OpenUtau-API
+# OpenUtauAPI
 An API utilizing the OpenUtau core
